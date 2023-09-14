@@ -1,0 +1,3 @@
+const getKratosErrors = (error: Error) => {
+    
+}
